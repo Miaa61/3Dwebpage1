@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+canvas{
+  display: block;/*画布大小为全屏*/
+  position: fixed;/*固定定位占据整个屏幕 */
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+}
